@@ -32,7 +32,7 @@ luac.out
 *.dylib
 
 # Executables
-*.exe
+*.love
 *.out
 *.app
 *.i*86
